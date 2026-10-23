@@ -1,0 +1,2 @@
+# Cisco-200-201-CBROPS-CCNA-Cybersecurity-Study-Guide
+A practical Cisco 200-201 CBROPS study guide for the CCNA Cybersecurity certification, covering security concepts, SOC operations, security monitoring, endpoint and network intrusion analysis, incident response, log investigation, and threat detection—with Mermaid diagrams, original practice questions, hands-on labs, and official Cisco resources.
